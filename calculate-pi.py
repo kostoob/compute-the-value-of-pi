@@ -14,4 +14,4 @@ def compute_pi(n):
     print(pi)
 
 
-compute_pi(100000)
+compute_pi(100)
